@@ -1,4 +1,4 @@
-[![image](https://github.com/user-attachments/assets/31cc3274-77ab-4885-a15c-0006cf73d129)](chemeet.vercel.app/)
+[![image](https://github.com/user-attachments/assets/31cc3274-77ab-4885-a15c-0006cf73d129)](https://chemeet.vercel.app/)
 
 [_(이 문서 수정하기)_](https://github.com/woongteco/.github/edit/main/profile/README.md)
 
