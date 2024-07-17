@@ -1,4 +1,4 @@
-[![image](https://github.com/user-attachments/assets/31cc3274-77ab-4885-a15c-0006cf73d129)](chemeet.vercel.app/)
+[![image](https://github.com/user-attachments/assets/31cc3274-77ab-4885-a15c-0006cf73d129)](https://chemeet.vercel.app/)
 
 # CHEMEET
 
@@ -61,7 +61,7 @@
 |   [양아름](https://github.com/yangareum1818) | [이나연](https://github.com/callmebyneon) | [장재우](https://github.com/oweaj)|
 |   [@yangareum1818](https://github.com/yangareum1818) | [@callmebyneon](https://github.com/callmebyneon) | [@oweaj](https://github.com/oweaj)|
 | 팀장, 최고의 행동력 | 서기, 대문자 J | 총무, 예비 백엔드 개발자 | 
-| [Blog](https://velog.io/@yangareum1818/posts) | [Blog](https://callmebyneon.github.io/ | [Blog]() | 
+| [Blog](https://velog.io/@yangareum1818/posts) | [Blog](https://callmebyneon.github.io/) | Blog | 
 
 _And Special thanks to our mentor ... [Hero](https://github.com/hero-dataheroes)_
 
