@@ -4,8 +4,6 @@
 
 # 케밋 프로젝트
 
-<img alt="CHEMEET Logo" src="https://github.com/woongteco/nextcamp-12t/blob/main/public/icons/logo/logo.svg" align="right" />
-
 케밋(CHEMEET)은 기존 유데미 큐레이션([https://udemy.wjtb.co.kr/](https://udemy.wjtb.co.kr/))에서 확장된, 학습자에게 제공할 수 있는 강의에 대한 외부 SaaS형 추가 스터디 서비스로 기획되었습니다.
 
 ## 개발 기간
@@ -25,17 +23,17 @@
 -	배포 Preview & Production : Vercel
 -	실시간 소통 : Discord, Slack, Kakao talk chat, Zep, Jitsi ...
 
-## 핵심 기능
+## 핵심 기능 (개발중)
 
 - 회원가입/로그인 및 소셜 로그인(Kakao, Google +)
 - 로그인 세션에 따른 라우트 접근
 - 글, 댓글 CRUD (Create, Read, Update, Delete)
 - 회원 정보 RU (Read, Update)
 
-## 부가 기능 🔺
+## 부가 기능 (개발 미정🔺)
 
 - 댓글, 답글 추가시 사용자 알림
-- 이미지 저장 시 이미지 압축, CDN 관리
+- 이미지 저장 시 이미지 압축, CDN으로 관리
 
 ## 기획
 
@@ -70,3 +68,4 @@ _And Special thanks to our mentor ... [Hero](https://github.com/hero-dataheroes)
 
 | 스나이퍼팩토리 | 유데미 | 웅진씽크빅 | 고용노동부 |
 |:------------:|:------------------:|:--------------------:|:--------------------:|
+
