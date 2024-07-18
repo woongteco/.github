@@ -50,7 +50,7 @@
 
 ### 개발 컨벤션 정리
 
-[Wiki](https://github.com/woongteco/nextcamp-12t/wiki)
+[Repository/Wiki](https://github.com/woongteco/nextcamp-12t/wiki)
 
 ## 팀 웅테코
 
