@@ -71,7 +71,7 @@
 |:------------:|:------------------:|:--------------------:|
 |   [양아름](https://github.com/yangareum1818) | [이나연](https://github.com/callmebyneon) | [장재우](https://github.com/oweaj)|
 |   [@yangareum1818](https://github.com/yangareum1818) | [@callmebyneon](https://github.com/callmebyneon) | [@oweaj](https://github.com/oweaj)|
-| 팀장, 최고의 행동력 | 서기, 대문자 J | 총무, 예비 백엔드 개발자 | 
+| 팀장, 최고의 행동력 | 서기, 일할 때 한정 대문자 J | 총무, 예비 백엔드 개발자 | 
 
 _And Special thanks to our mentor ... [Hero](https://github.com/hero-dataheroes)_
 
