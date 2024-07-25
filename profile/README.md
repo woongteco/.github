@@ -1,7 +1,5 @@
 [![image](https://github.com/user-attachments/assets/31cc3274-77ab-4885-a15c-0006cf73d129)](https://chemeet.vercel.app/)
 
-[_(이 문서 수정하기)_](https://github.com/woongteco/.github/edit/main/profile/README.md)
-
 # 케밋 프로젝트
 
 케밋(CHEMEET)은 기존 유데미 큐레이션([https://udemy.wjtb.co.kr/](https://udemy.wjtb.co.kr/))에서 확장된, 학습자에게 제공할 수 있는 강의에 대한 외부 SaaS형 추가 스터디 서비스로 기획되었습니다.
@@ -62,6 +60,10 @@
 ### 개발 컨벤션 정리
 
 [Repository/Wiki](https://github.com/woongteco/nextcamp-12t/wiki)
+
+### 메인 페이지 화면
+
+![image](https://github.com/user-attachments/assets/458fe4b7-993d-4fff-a281-f67bd65080dc)
 
 ## 팀 웅테코
 
